@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
@@ -9,3 +10,8 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+=======
+# Regaarder Studio
+
+Professional creative documentary and 3D visual effects video editor with timeline compositing, kinetic typography, and 3D scene engines.
+>>>>>>> 697c886 (Add cinematic depth-of-field focus, refined lines, and 3D balance sheet inspector controls)
